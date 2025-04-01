@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deaw Sarawut Manouam
 ============================================================================================================================================
 
-Frontend Developer,Backend Developer,Web Developer
+Frontend Developer
 --------------------------------------------------
 
 I have 4 months of internship experience as an Assistant Software Developer, with training in website design using the AngularTS framework. I am currently studying React.js and working with PostgreSQL, MongoDB, Node.js, Express, and Tailwind CSS
